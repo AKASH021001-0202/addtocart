@@ -40,7 +40,8 @@ npm install
 npm run dev
 
 Screenshots
+![2024-04-01 (1)](https://github.com/AKASH021001-0202/addtocart/assets/147514889/14ac2706-8a3d-4fb9-a10c-4c562cb409e1)
 
-![image](https://github.com/AKASH021001-0202/addtocart/assets/147514889/2a571c6a-5dc8-4e72-8bae-bf4479644ea3)
+
 
 
