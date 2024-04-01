@@ -31,7 +31,7 @@ This is a simple React e-commerce application where users can browse through pro
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-ecommerce.git
+git clone [https://github.com/AKASH021001-0202/addtocart.git]
 
 2. Install dependencies:
 npm install
